@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrostByte2
-- 👀 I’m interested in ... Linux and Cyber security and windows Server Desktop 
+- 👀 I’m interested in ... Linux and Cyber security and windows Server Administration
 - 🌱 I’m currently learning ... Linux and CyberSecurity.
 
 <!---
